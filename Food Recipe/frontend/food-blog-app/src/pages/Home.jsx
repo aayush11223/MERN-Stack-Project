@@ -25,7 +25,7 @@ export default function Home() {
             <section className='home'>
                 <div className='left'>
                     <h1>Food Recipe</h1>
-                    <h5>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</h5>
+                    <h5>The Food Recipe App is a web-based application designed to help users discover, manage, and prepare a variety of food recipes easily. It allows users to browse different recipes, view ingredients and step-by-step cooking instructions, and save their favorite dishes in one place. The application provides a simple and user-friendly interface that makes cooking easier for both beginners and experienced users. Developed using modern web technologies, the system ensures fast performance, responsive design, and smooth interaction. The main objective of the application is to make recipe searching and meal preparation more convenient, organized, and accessible through a digital platform.</h5>
                     <button onClick={addRecipe}>Share your recipe</button>
                 </div>
                 <div className='right'>
