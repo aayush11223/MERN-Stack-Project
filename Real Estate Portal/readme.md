@@ -8,7 +8,7 @@ A full-stack MERN application for a real estate buyer portal with JWT authentica
 
 | Layer     | Technology                                        |
 |-----------|---------------------------------------------------|
-| Frontend  | React 18, Vite, React Router v6, Tailwind CSS, Axios |
+| Frontend  | React, Vite, React Router, Tailwind CSS, Axios |
 | Backend   | Node.js, Express.js                               |
 | Database  | MongoDB (local), Mongoose ODM                     |
 | Auth      | JWT (jsonwebtoken), bcryptjs                      |
